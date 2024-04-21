@@ -1,7 +1,7 @@
 <?php
 
 
-// Repository Pattern
+//Creating Repository Pattern
 
 
 include("repositorypattern.php");
